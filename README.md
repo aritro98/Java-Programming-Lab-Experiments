@@ -8,8 +8,5 @@ This repository contains a comprehensive collection of Java Programming lab expe
 
 ## Repository Structure
 
-Each experiment is organized into its own directory, which includes:
-
-- **Source Code**: Java files implementing the experiment.
-- **Information**: Detailed objectives of the experiment.
-- **Sample Output**: Screenshots or text files showcasing the program's output.
+- Each experiment is placed in a separate directory.
+- Includes source code, informations, and sample outputs for better understanding.
