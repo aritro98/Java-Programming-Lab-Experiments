@@ -1,3 +1,4 @@
+//2. Write a program in Java to generate NullPointerException and handle it.
 class nullpointerror{
 	public static void main(String[] args){
 		try{
