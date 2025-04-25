@@ -1,4 +1,4 @@
-//2.Write a program in java which will illustrate the working of two child threads and one main thread, all displaying in parallel a set of characters one at a time.
+//2. Write a program in java which will illustrate the working of two child threads and one main thread, all displaying in parallel a set of characters one at a time.
 public class mcthread{
     public static void main(String[] args){
         Thread t1=new Thread(new letter('A'));
